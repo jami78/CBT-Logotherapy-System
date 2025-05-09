@@ -85,11 +85,11 @@ uvicorn app.main:app --reload
   - Available at "app/voice_chat.py"
 
 ## Workflows
-**1. Chat Workflow**
+### 1. Chat Workflow
 ![image](https://github.com/user-attachments/assets/27a621b3-c5c8-41db-9834-65cadbecdf6a)
-**2. Real-Time Audio Therapy Workflow**
+### 2. Real-Time Audio Therapy Workflow
 ![image](https://github.com/user-attachments/assets/49670b2a-6a99-4c69-ac7b-122d53c3cb1d)
-**3. Article Workflow**
+### 3. Article Workflow
 ![image](https://github.com/user-attachments/assets/f4df18e9-dfb9-42ec-a04b-c149f5cd791f)
 
 ## Technologies Used
