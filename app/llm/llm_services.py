@@ -12,5 +12,5 @@ gpt = ChatOpenAI(
     openai_api_key=OPENAI_API_KEY,
     temperature=0.2
 )
-memory = ConversationSummaryMemory(llm=gpt, max_token_limit=1000)
-conv= ConversationChain(llm=gpt, memory=memory, verbose=True)
+# memory = ConversationSummaryMemory(llm=gpt, max_token_limit=1000)
+# conv= ConversationChain(llm=gpt, memory=memory, verbose=True)
